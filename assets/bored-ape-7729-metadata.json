@@ -1,0 +1,29 @@
+{
+   "image":"ipfs://QmQC779ZYNA6q8dgRwewqv45NSi3NMdoP57tEiGKwrNm1x",
+   "attributes":[
+      {
+         "trait_type":"Hat",
+         "value":"Spinner Hat"
+      },
+      {
+         "trait_type":"Eyes",
+         "value":"Bored"
+      },
+      {
+         "trait_type":"Fur",
+         "value":"Golden Brown"
+      },
+      {
+         "trait_type":"Mouth",
+         "value":"Grin"
+      },
+      {
+         "trait_type":"Clothes",
+         "value":"Guayabera"
+      },
+      {
+         "trait_type":"Background",
+         "value":"Yellow"
+      }
+   ]
+}

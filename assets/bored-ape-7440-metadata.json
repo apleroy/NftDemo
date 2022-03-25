@@ -1,0 +1,29 @@
+{
+    "image":"ipfs://QmXT4Uyk9nN3Xegjarik8Y1PE49RHUDfHDHM8GcYq7VMS9",
+    "attributes":[
+       {
+          "trait_type":"Clothes",
+          "value":"Lumberjack Shirt"
+       },
+       {
+          "trait_type":"Mouth",
+          "value":"Bored"
+       },
+       {
+          "trait_type":"Fur",
+          "value":"Gray"
+       },
+       {
+          "trait_type":"Background",
+          "value":"Blue"
+       },
+       {
+          "trait_type":"Hat",
+          "value":"Irish Boho"
+       },
+       {
+          "trait_type":"Eyes",
+          "value":"Sad"
+       }
+    ]
+ }
